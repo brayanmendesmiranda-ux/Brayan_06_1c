@@ -2,8 +2,21 @@ body{
 color:bisque;
 background:aqua;
 }
+
 header{ 
 border-bottom: solid 2px rgb(rgb(36, 103, 204)) ;
 padding: 20px;
-
+font-size: 32px;
+color: blue;
+background: rgb(8, 115, 208)
+}
+.chamada {
+    background-color: aqua;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+    margin: right 5%;
 }
